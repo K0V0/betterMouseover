@@ -1,0 +1,35 @@
+{
+  "name": "betterMouseover",
+  "title": "Better Mouseover plugin",
+  "description": "Plugin that will fire mouseenter method only if cursor is over for certain amount of time",
+  "keywords": [
+    "mouseover",
+    "delay",
+    "timer", 
+    "plugin"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "Matej Kováč",
+    "url": "https://github.com/K0V0"
+  },
+  "maintainers": [
+    {
+      "name": "Matej Kováč",
+      "url": "https://github.com/K0V0"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/K0V0/betterMouseover/issues",
+  "homepage": "",
+  "docs": "https://github.com/K0V0/betterMouseover#readme",
+  "download": "https://github.com/K0V0/betterMouseover/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
