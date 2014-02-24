@@ -8,7 +8,7 @@ For example, You are changing background image of some section while reading and
 Using this plugin, you can avoid this behavior. User will go trought items and if he "stays" over any for a given amount of time, action will be fired. 
 
 For tryout see my Fiddle:
-[betterMouseover on JSFiddle](hhttp://jsfiddle.net/Kovo/Y3wzJ/19/)
+[betterMouseover on JSFiddle](http://jsfiddle.net/Kovo/Y3wzJ/19/)
 
 Usage
 -----
